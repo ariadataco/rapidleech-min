@@ -1,0 +1,1 @@
+<?php if(!defined('RAPIDLEECH')){require('../deny.php');exit;}require_once(TEMPLATE_DIR.'functions.php');include(TEMPLATE_DIR.'header.php');include(TEMPLATE_DIR.'main.php');include(TEMPLATE_DIR.'footer.php');?>
